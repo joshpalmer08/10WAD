@@ -1,0 +1,4 @@
+def start_screen():
+    print("Welcome to 10WAD! (10 Words A Day)")
+    begin = input("Type start to begin:")
+    if begin == "start":
